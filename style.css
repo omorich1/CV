@@ -1,0 +1,9 @@
+H2{
+    background-color: burlywood;
+    color: chartreuse;
+}
+header{
+    background-color: chocolate;
+    color: cyan;   
+    text-justify: distribute-all-lines;
+}
